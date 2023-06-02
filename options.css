@@ -1,0 +1,76 @@
+body{
+	background-image:url('blue123.jpg');
+    
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.box{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.inner{
+    color: black;
+        font-size: 90%;
+        letter-spacing: 2px;
+        margin-top: 600 px;
+        
+    }
+
+.images123{
+    margin-left: auto;
+    display: flex;
+    margin-top: 30px;
+  padding: 20px;
+  font-size: 30px;
+}   
+
+#option1{
+    
+    width: 250px;
+    height: auto;
+}
+
+#option2{
+    
+    width: 250px;
+    height: auto;
+}
+
+#option3{
+    
+    width: 250px;
+    height: auto;
+}
+
+#option4{
+    
+    width: 250px;
+    height: auto;
+}
+
+#results{
+    
+text-align: center;
+color: rgb(246, 235, 231);
+}
+
+#results1{
+    
+    text-align: center;
+    color: rgb(246, 235, 231);
+    }
+
+
+
+h1{
+    text-align: center
+    ;
+    color: rgb(245, 193, 130);
+}
+
+
+

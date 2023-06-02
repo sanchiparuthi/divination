@@ -1,0 +1,45 @@
+body{
+
+	background-image:url('blue456.jpg');
+    
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.box{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.inner{
+    color: black;
+        font-size: 90%;
+        letter-spacing: 2px;
+        margin-top: 600 px;
+        
+    }
+
+.images123{
+    margin-left: auto;
+    display: flex;
+    margin-top: 100px;
+  padding: 20px;
+  font-size: 30px;
+}   
+
+#option{
+    
+    width: 250px;
+    height: auto;
+}
+
+h2{
+    font-family: monospace;
+    margin-top: 200px;
+    text-align: center
+    ;
+    color: rgb(255, 255, 255);
+}
+

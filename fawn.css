@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+	background-image:url('fawn.png');
+    
+    background-attachment: local;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+

@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+	background-image:url('vidia.png');
+    
+    background-attachment: local;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
